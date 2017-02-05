@@ -1,0 +1,3 @@
+graft metrics-mail/templates
+graft metrics-mail/static
+include metrics-mail/schema.sql

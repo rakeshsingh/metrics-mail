@@ -2,4 +2,6 @@ venv/*
 .chalice/*
 *.pyc
 *.*~
+.eggs/*
+*.egg-info
 
